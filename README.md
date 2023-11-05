@@ -5,16 +5,17 @@ This is a basic calculator made using HTML, CSS and Javascript. The caculator ca
 OPERATIONS :
 ============
 
-#AC -> clears the whole input and operations being processed
+### AC -> clears the whole input and operations being processed
 
-#DE -> deletes the last value in the input
+### DE -> deletes the last value in the input
 
-#0 to 9 -> used to input numbers
+### 0 to 9 -> used to input numbers
 
-#+,-,*,/ -> used to select operations to be performed
+### +,-,*,/ -> used to select operations to be performed
 
-#= -> gives final value of the oprations performed
+### = -> gives final value of the oprations performed
 
 
 
-#This is a sample program created only for the sole purpose of learning Javascript
+### This is a sample program created only for the sole purpose of learning Javascript
+### Hosted at https://tectonicsteak.github.io/Basic_JS_Calculator/
